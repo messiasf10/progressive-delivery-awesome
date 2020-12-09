@@ -1,6 +1,6 @@
 # progressive-delivery-awesome
 
-## Posts and Papers
+## Posts
 
 [Towards Progressive Delivery](https://redmonk.com/jgovernor/2018/08/06/towards-progressive-delivery/)
 
