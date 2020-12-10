@@ -18,6 +18,8 @@
 
 [Progressive Delivery](https://devopsinstitute.com/progressive-delivery/)
 
+[Release to Kubernetes like a Pro with Flagger](https://dev.to/cdennig/release-to-kubernetes-like-a-pro-with-flagger-1igf)
+
 ## Talks
 
 [An Introduction to Progressive Delivery](https://www.infoq.com/presentations/progressive-delivery/)
