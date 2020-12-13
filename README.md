@@ -6,6 +6,8 @@
 
 [GitOps Workflows for Istio Canary Deployments](https://dzone.com/articles/gitops-workflows-for-istio-canary-deployments)
 
+[Progressive Delivery, a History…Condensed](https://launchdarkly.com/blog/progressive-delivery-a-history-condensed/)
+
 [The Rise of Progressive Delivery for Systems Resilience](https://thenewstack.io/the-rise-of-progressive-delivery-for-systems-resilience/)
 
 [Progressive Delivery](https://www.split.io/glossary/progressive-delivery/)
