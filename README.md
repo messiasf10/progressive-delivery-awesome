@@ -24,6 +24,24 @@
 
 [Release to Kubernetes like a Pro with Flagger](https://dev.to/cdennig/release-to-kubernetes-like-a-pro-with-flagger-1igf)
 
+[Continuous, Incremental, Progressive Delivery — Pick Three](https://launchdarkly.com/blog/continuous-incrementalprogressive-delivery-pick-three/)
+
+[The Path To Progressive Delivery](https://www.split.io/blog/the-path-to-progressive-delivery/)
+
+[Four Shades of Progressive Delivery](https://www.split.io/blog/learn-the-four-shades-of-progressive-delivery/)
+
+[Progressive Delivery — Optimization Glossary](https://www.optimizely.com/optimization-glossary/progressive-delivery/)
+
+[What is Progressive Delivery?](https://searchitoperations.techtarget.com/definition/progressive-delivery)
+
+[Progressive Delivery, The Future Of Software Development: Ship Faster with Less Risk](https://www.cuelogic.com/blog/progressive-delivery)
+
+[Achieving Value with Progressive Delivery](https://medium.com/@vidhatanandV/achieving-value-with-progressive-delivery-438507cfbc6b)
+
+[Progressive Delivery: Continuous Delivery the Right Way](https://carlossg.github.io/presentations/2020-02_fosdem/#/)
+
+[Progressive Delivery](https://blog.csanchez.org/tag/progressive-delivery/)
+
 ## Talks
 
 [An Introduction to Progressive Delivery](https://www.infoq.com/presentations/progressive-delivery/)
