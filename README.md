@@ -42,6 +42,8 @@
 
 [Progressive Delivery](https://blog.csanchez.org/tag/progressive-delivery/)
 
+[Pros and Cons of Canary Release and Feature Flags in Continuous Delivery](https://www.split.io/blog/canary-release-feature-flags/)
+
 ## Talks
 
 [An Introduction to Progressive Delivery](https://www.infoq.com/presentations/progressive-delivery/)
